@@ -1,0 +1,10 @@
+{
+    "name": "BY Test Plugin",
+    "description": "Testing purpose. Do not use for regular usecases.",
+    "creator": "Berkin YILMAZ",
+    "copyright": "Copyright -",
+    "license": "-",
+    "product_id": "BY_TestPlugin",
+    "version": "1.0.0",
+    "build": "1"
+  }
